@@ -3,3 +3,10 @@ https://www.youtube.com/watch?v=sC4Fg-YJJc0
 
 # Also you can visit this site (more free pro. version tools)
 https://education.github.com/pack
+
+-------------------------------------------------------------------------------------------------------
+
+# Unity 2019 No intellisense in Visual Studio fix
+  This problem related to external script editor option please change.
+  Edit -> preferences -> External Tools -> External Script Editor (please choose visual studio options)
+
